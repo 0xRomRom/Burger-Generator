@@ -1,7 +1,7 @@
 # Burger Generator
 
-This is simple JS app to generate a random burger!
+My very first simple JavaScript app.
+It's sole purpose is to generate a 'random' burger :)
 
-## Subheader
+## Check it out: https://bit.ly/3D12AxV
 
-Adding txt
