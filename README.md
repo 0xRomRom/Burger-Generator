@@ -3,5 +3,5 @@
 My very first simple JavaScript app.
 It's sole purpose is to generate a 'random' burger :)
 
-## Try it out: https://shorturl.at/oKNZ1
+## Try it out: shorturl.at/lrNZ4
 
